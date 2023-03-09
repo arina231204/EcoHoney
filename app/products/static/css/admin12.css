@@ -1,0 +1,25 @@
+#header, .module caption {
+    background-color: #FAC402;
+}
+
+#branding h1 a:link, #branding h1 a:visited {
+    color: black;
+}
+
+#header a:link, #header a:visited, #logout-form button {
+    color: black;
+}
+
+#header {
+    color: black;
+}
+
+
+a.section:link, a.section:visited {
+    color: black;
+    text-decoration: none;
+}
+
+div.breadcrumbs {color: black; background: #FAC402;}
+
+.module h2, .module caption, .inline-group h2 {color: black; background: #FAC402;}
